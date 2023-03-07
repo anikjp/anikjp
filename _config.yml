@@ -1,0 +1,12 @@
+title: Hi 👋, I'm Anik Barua
+description: Passionate Full Stack Developer
+show_downloads: false
+# google_analytics: 
+theme: jekyll-theme-cayman
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
+  is_project_page: false
+  repository_name: profile
+  owner_url: https://github.com/anikjp
+  owner_name: Anik Barua
