@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anikjp&show_icons=true&locale=en" alt="anikjp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikjp&" alt="anikjp" /></p>
+<a href="https://app.daily.dev/onixoni"><img src="https://api.daily.dev/devcards/c6a60939a9d1450aae49c7f8d6aa8401.png?r=hs9" width="400" alt="Anik Barua's Dev Card"/></a>
